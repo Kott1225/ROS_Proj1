@@ -1,0 +1,12 @@
+# for ROS,ROS2
+.vscode/
+build/
+install/
+log/
+
+# for Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+*.egg-info/
