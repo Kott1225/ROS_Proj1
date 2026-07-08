@@ -2,3 +2,7 @@
 	path = src/rplidar_ros
 	url = https://github.com/Slamtec/rplidar_ros.git
 	branch = ros2
+[submodule "src/obstracle_detector_2"]
+	path = src/obstracle_detector_2
+	url = https://github.com/giuschio/obstacle_detector_2.git
+	branch = humble-devel
